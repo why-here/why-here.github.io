@@ -11,6 +11,12 @@ description: Github pages
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/faq-icon.png
 
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+ 
 #
 # Flags below are optional
 #
