@@ -15,6 +15,8 @@ avatar: /images/faq-icon.png
 # Flags below are optional
 #
 
+theme: jekyll-theme-modernist
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
