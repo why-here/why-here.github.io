@@ -9,7 +9,7 @@ name: why-here
 description: Github pages
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ./images/faq-icon.png
+avatar: /images/faq-icon.png
 
 #
 # Flags below are optional
