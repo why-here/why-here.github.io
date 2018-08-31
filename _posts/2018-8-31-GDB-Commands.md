@@ -28,7 +28,9 @@ $ ulimit -c unlimited # 不限制大小
 - step or s ：执行下一行程序，并进入函数（若有的话）。
 - list : 显示当前停止处的源代码，或 list 20,显示 20 行的代码，或 list func ，显示函数 func 的代码。
 
-#### 多线程调试： 参考 [coolshell](https://coolshell.cn/articles/3643.html)
+#### 多线程调试： 
+
+参考 [coolshell](https://coolshell.cn/articles/3643.html)
 
 - info thread 查看当前进程的线程。
 - thread <ID> 切换调试的线程为指定ID的线程。
